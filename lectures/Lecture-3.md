@@ -39,5 +39,7 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Part I:** [Surveys](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%203/Lecture/24-03-1-Surveys.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 7MB)
--   **Part II:** [Content Analysis and Grounded Theory](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%203/Lecture/24-03-2-Content-Analysis.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 9.6MB)
+_Coming soon._
+
+[//]: # -   **Part I:** [Surveys](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%203/Lecture/24-03-1-Surveys.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 7MB)
+[//]: # -   **Part II:** [Content Analysis and Grounded Theory](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%203/Lecture/24-03-2-Content-Analysis.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 9.6MB)
