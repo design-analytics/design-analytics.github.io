@@ -25,8 +25,6 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
-_Coming soon._
-
-[//]: # -   **Part I:** [Introduction to Design Analytics](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%201/Lecture/24-01-1-Introduction.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 40MB)
-[//]: # -   **Part II:** [Research Questions](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%201/Lecture/24-01-2-Research-Questions.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 5.4MB)
+-   **Part I:** [Introduction to Design Analytics](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%201/Lecture/25-01-1-Introduction.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 45MB)
+-   **Part II:** [Research Questions](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%201/Lecture/25-01-2-Research-Questions.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 5.2MB)
 
