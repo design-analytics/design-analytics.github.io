@@ -67,4 +67,4 @@ nav_order: 7
     3.  _The model is not statistically significant._
     4.  _The goodness of fit is 0.81._
 
-[//]: # [Show Solution]({{site.baseurl}}/assets/assignments/Week-7-Solutions.pdf){:target="\_blank"}
+[Show Solution]({{site.baseurl}}/assets/assignments/Week-7-Solutions.pdf){:target="\_blank"}
