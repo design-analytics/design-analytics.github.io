@@ -9,19 +9,20 @@ nav_order: 0
 </style>
 
 # Welcome to the **Design Analytics**
+
 ## IOB6-E8 | 2025-26
 
 <p align="center">
-  <img src="/assets/images/da-cover-narrow-2025.png" />
+  <img src="/assets/images/da-cover_alt.png" />
 </p>
 
 ## The Course
 
-In this elective, you will gather tools and acquire knowledge to critically evaluate (*interactive* and *intelligent*) technological prototypes and set the stage for the next iteration of the design phase by eliciting actionable design guidelines based on comprehensive **empirical analysis**.
+In this elective, you will gather tools and acquire knowledge to critically evaluate (_interactive_ and _intelligent_) technological prototypes and set the stage for the next iteration of the design phase by eliciting actionable design guidelines based on comprehensive **empirical analysis**.
 
 The technological component of this course is demonstrated by the strong focus on the improvement of **IPSS** (intelligent products, services, and systems) such as, conversational agents, wearables, etc.
 
-Instead of examining the complete *human-centric* design cycle, you will focus solely on the **quantitative assessment of IPSS** and examine their **cognitive, perceptual, and experiential effects**.
+Instead of examining the complete _human-centric_ design cycle, you will focus solely on the **quantitative assessment of IPSS** and examine their **cognitive, perceptual, and experiential effects**.
 To this end, you will learn and add skills to your methodological toolkit, which will enable you to:
 
 1.  design sound experiments (with Control and Experimental groups),
@@ -40,40 +41,59 @@ In this course, you will become familiar with the **5-stage Design Analytics Pro
 Below is a weekly description of the topics covered in the course.
 
 1.  **Week 1: Introduction**
-  * _Theory vs. Law vs. Hypothesis_
-  * _Reasoning: Deductive vs. Inductive vs. Abductive_
-  * _Formulating Research Questions_
-  * _Research Questions: Quality Assessment_
+
+- _Theory vs. Law vs. Hypothesis_
+- _Reasoning: Deductive vs. Inductive vs. Abductive_
+- _Formulating Research Questions_
+- _Research Questions: Quality Assessment_
+
 2.  **Week 2: Experimental Research**
-  * _Research Questions and Hypotheses Formulation_
-  * _Variables: Independent, Dependent, and Process_
-  * _Experiment Design: Defining Baseline, A/B Testing, Within/Between/Mixed Designs_
+
+- _Research Questions and Hypotheses Formulation_
+- _Variables: Independent, Dependent, and Process_
+- _Experiment Design: Defining Baseline, A/B Testing, Within/Between/Mixed Designs_
+
 3.  **Week 3: Research Methods**
-  * _Surveys_
-  * _Content Analysis (Interviews, Text Analysis, etc.)_
+
+- _Surveys_
+- _Content Analysis (Interviews, Text Analysis, etc.)_
+
 4. **Week 4: Working with Humans**
-  * _Privacy Considerations_
-  * _Informed Consent_
-  * _Participant's Rights_
-  * _Deceptive Experiments_
+
+- _Privacy Considerations_
+- _Informed Consent_
+- _Participant's Rights_
+- _Deceptive Experiments_
+
 5. **Week 5: Analysis I**
-  * _Sample Distributions_
-  * _Measures of Central Tendancy (Mean, Median, Mode)_
-  * _Measure of Variability (Variance, Standard Deviation)_
-  * _Confidence Interval_
-  * _Null Hypothesis Significance Testing_
-  * _Type I & Type II Errors_
+
+- _Sample Distributions_
+- _Measures of Central Tendancy (Mean, Median, Mode)_
+- _Measure of Variability (Variance, Standard Deviation)_
+- _Confidence Interval_
+- _Null Hypothesis Significance Testing_
+- _Type I & Type II Errors_
+
 6. **Week 6: Analysis II**
-  * _Parametric Tests_
-  * _Test Assumptions (Normality, Homoscedasticity, etc.)_
-  * _Non-Parametric Tests_
+
+- _Parametric Tests_
+- _Test Assumptions (Normality, Homoscedasticity, etc.)_
+- _Non-Parametric Tests_
+
 7. **Week 7: Analysis III**
-  * _Correlations_
-  * _Linear Regression_
+
+- _Correlations_
+- _Linear Regression_
+
 8. **Week 8: Communicating Analysis Results**
-  * _Correlation vs. Causation_
-  * _Scientific Visualization_
+
+- _Correlation vs. Causation_
+- _Scientific Visualization_
+
 9. **Summative Assessment I: Group Work**
-  * _Group Report Submission Deadline: **10th April 2026; On or before 17:00**_
+
+- _Group Report Submission Deadline: **10th April 2026; On or before 17:00**_
+
 10. **Summative Assessment II: Final Exam**
-  * _Exam Date: **14th April 2026**_
+
+- _Exam Date: **14th April 2026**_
