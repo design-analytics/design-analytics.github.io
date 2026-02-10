@@ -9,7 +9,7 @@ nav_order: 0
 </style>
 
 # Welcome to the **Design Analytics**
-## IOB6-E8 | 2024-25
+## IOB6-E8 | 2025-26
 
 <p align="center">
   <img src="/assets/images/da-cover-narrow-2025.png" />
@@ -74,6 +74,6 @@ Below is a weekly description of the topics covered in the course.
   * _Correlation vs. Causation_
   * _Scientific Visualization_
 9. **Summative Assessment I: Group Work**
-  * _Group Report Submission Deadline: **11th April 2025; On or before 17:00**_
+  * _Group Report Submission Deadline: **10th April 2026; On or before 17:00**_
 10. **Summative Assessment II: Final Exam**
-  * _Exam Date: **15th April 2025**_
+  * _Exam Date: **14th April 2026**_
