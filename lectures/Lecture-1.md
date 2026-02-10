@@ -25,12 +25,6 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Part I:** [Introduction to Design Analytics](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%201/Lecture/24-01-1-Introduction.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 40MB)
--   **Part II:** [Research Questions](https://brightspace.tudelft.nl/content/enforced/596488-IOB6-E8+2023+3/Week%201/Lecture/24-01-2-Research-Questions.pdf?isCourseFile=true&ou=596488){:target="\_blank"} (PDF; 5.4MB)
+-   **Part I:** [Introduction to Design Analytics](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%201/Lecture/25-01-1-Introduction.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 45MB)
+-   **Part II:** [Research Questions](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%201/Lecture/25-01-2-Research-Questions.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 5.2MB)
 
-[//]: # - Part 1: [Introduction to Design Analytics]({{site.baseurl}}/assets/slides/23-01-1-Introduction.pdf){:target="\_blank"} (PDF - 50Mb)
-[//]: # - Part 2: [What are good research questions?]({{site.baseurl}}/assets/slides/23-01-2-Research-Questions.pdf){:target="\_blank"} (PDF - 20Mb)
-
-[//]: <> ## Additional Reading Material
-
-[//]: # **Read** [Chapter 1](https://brightspace.tudelft.nl/content/enforced/500425-IOB6-E8+2022+3/Chapter-1---Introduction-to-HCI-r_2017_Research-Methods-in-Human-Computer-In.pdf?_&d2lSessionVal=P9N0bFGpKFCKXseFv7jM9li0K&ou=500425){:target="\_blank"}: Research Methods in Human-Computer Interaction, 2nd Edition (_Authors: Jonathan Lazar, Jinjuan Feng & Harry Hochheiser_)
