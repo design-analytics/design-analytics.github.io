@@ -23,4 +23,4 @@ nav_order: 2
 4.  Design a **quasi-experiment** to validate/invalidate the following Null Hypothesis. Please choose the most appropriate design (*between-, within-group or split-plot; factorial vs. non-factorial design*) for your study and explain the rationale behind your choices.
     *   _“There is no difference in reading speed and retention rate when users read a news on smart phones, laptops, and newspapers.”_
 
-[Show Solution]({{site.baseurl}}/assets/assignments/Week-2-Solutions.pdf){:target="\_blank"}
+[//]: [Show Solution]({{site.baseurl}}/assets/assignments/Week-2-Solutions.pdf){:target="\_blank"}

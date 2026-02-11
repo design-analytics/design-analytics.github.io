@@ -36,4 +36,4 @@ nav_order: 4
 6.  When designing the informed consent forms for your participants, please describe in detail the rights of participants.
 7.  Please illustrate through bullet points, the considerations you will make when using **proxy users** to evaluate a smart walking stick for blind people. Also comment whether the use of **proxy users** would impact the validity of your study and in what ways.
 
-[Show Solution]({{site.baseurl}}/assets/assignments/Week-4-Solutions.pdf){:target="\_blank"}
+[//]: [Show Solution]({{site.baseurl}}/assets/assignments/Week-4-Solutions.pdf){:target="\_blank"}
