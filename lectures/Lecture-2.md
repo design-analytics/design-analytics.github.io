@@ -35,8 +35,8 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Part I:** [Experimental Research I](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%202/Lecture/25-02-1-Experimental-Research-1.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 8.4MB)
--   **Part II:** [Experimental Research II](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%202/Lecture/25-02-2-Experimental%20Research-2.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 45.6MB)
+-   **Part I:** [Experimental Research I](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%202/Lecture/26-02-1-Experimental-Research-1.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 8.4MB)
+-   **Part II:** [Experimental Research II](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%202/Lecture/26-02-2-Experimental%20Research-2.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 45.6MB)
 
 [//]: <> ## Additional Reading Material
 
