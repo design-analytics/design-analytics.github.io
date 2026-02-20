@@ -16,6 +16,7 @@ This workshop is structured to deepen your understanding and skills in setting u
 
 **Design Effective Experiments:** Acquire knowledge on various experimental designs, including A/B testing, and within, between, and mixed designs. This goal aims to prepare you to choose the most appropriate design for their research objectives, considering the strengths and limitations of each method to control for confounding variables and biases.
 
+[Download the Presentation]({{site.baseurl}}/assets/workshops/DA_Workshop_2_slides.pdf)
 [Download the Template]({{site.baseurl}}/assets/workshops/da-ws-week2.pdf)
 
 ![Template]({{site.baseurl}}/assets/workshops/da-ws-week2.png)
