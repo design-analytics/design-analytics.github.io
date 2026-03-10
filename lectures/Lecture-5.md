@@ -33,5 +33,5 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Part I:** [Descriptive Statistics](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%205/Lecture/25-05-1-Descriptive-Statistics.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 36.5MB)
--   **Part II:** [Significance Testing](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%205/Lecture/25-05-2-Significance-Testing.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 8.3MB)
+-   **Part I:** [Descriptive Statistics](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%205/Lecture/26-05-1-Descriptive-Statistics.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 8.8MB)
+-   **Part II:** [Significance Testing](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%205/Lecture/26-05-2-Significance-Testing.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 8.3MB)
