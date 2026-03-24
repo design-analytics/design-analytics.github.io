@@ -39,5 +39,5 @@ _Please go through the following preparatory material before the lecture on Tues
 
 ## Lecture Slides
 
--   **Part I:** [Non-Parametric Tests](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%207/Lecture/25-07-1-Non-Parametric-Tests.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 9.4MB)
--   **Part II:** [Correlation and Regression](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%207/Lecture/25-07-2-Correlation-Regression.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 11.1MB)
+-   **Part I:** [Non-Parametric Tests](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%207/Lecture/26-07-1-Non-Parametric-Tests.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 9.4MB)
+-   **Part II:** [Correlation and Regression](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%207/Lecture/26-07-2-Correlation-Regression.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 11.1MB)
