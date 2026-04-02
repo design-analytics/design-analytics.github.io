@@ -40,5 +40,5 @@ _Although not mandatory, it is recommended that you review the following materia
 
 ## Lecture Slides
 
--   **Part I:** [Data Visualization](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%208/Lecture/25-08-1-Data-Visualization.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 12MB)
--   **Part II:** [Correlation vs. Causation](https://brightspace.tudelft.nl/content/enforced/681675-IOB6-E8+2024+3/Week%208/Lecture/25-08-2-Correlation-Causation.pdf?isCourseFile=true&ou=681675){:target="\_blank"} (PDF; 6.7MB)
+-   **Part I:** [Data Visualization](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%208/Lecture/26-08-1-Data-Visualization.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 12.8MB)
+-   **Part II:** [Correlation vs. Causation](https://brightspace.tudelft.nl/content/enforced/767408-IOB6-E8+2025+3/Week%208/Lecture/26-08-2-Correlation-Causation.pdf?isCourseFile=true&ou=767408){:target="\_blank"} (PDF; 6.7MB)
